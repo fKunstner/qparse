@@ -1,7 +1,7 @@
 QuickParse
 ================================================================================
 
-`Documentation <https://fkunstner.github.io/qparse/html/>`_ |
+`Documentation <https://fdk-qparse.readthedocs.io/en/latest/>`_ |
 `Github repo <https://github.com/fKunstner/qparse>`_
 
 A wrapper for
