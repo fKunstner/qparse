@@ -59,7 +59,7 @@ def qparse(descr, args=None, flags=None):
             parser.add_argument(
                 "--" + flag, action="store_true", help=help_text, default=False,
             )
-    if args is not None:
+     if args is not None:
         for arg, help_text in args:
             parser.add_argument(
                 arg, default=None, type=str, help=help_text,
